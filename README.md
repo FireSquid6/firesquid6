@@ -1,5 +1,6 @@
 # [firesquid](https://firesquid.co)
 - 🌎 I'm from Austin, Texas
+- 🦑 I'm building [matchmake.ink](https://github.com/matchmake-ink)
 - 💻 I know fullstack web development
 - 🎮 I like making games
 - 🤖 I'm learning about machine learning
