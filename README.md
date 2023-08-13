@@ -6,7 +6,7 @@ import { fireSquid } from "developers"
 describe(("FireSquid") => {
   it("Should have a location", () => {
     expect(fireSquid.state).toEqual("Texas");
-    expect(fireSquid.
+    expect(fireSquid.city).toEqual("Austin");
   });
   it("Should know lots of things", () => {
     expect(fireSquid.skills).toContain("react");
