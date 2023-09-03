@@ -18,6 +18,7 @@ describe(("FireSquid") => {
   });
   it("Should be building something cool", () => {
     expect(fireSquid.currentProject).toEqual("matchmake.ink");
+    expect(fireSquid.sideProject).toEqual("powertool");
   });
 });
 ```
