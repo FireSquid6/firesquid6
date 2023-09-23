@@ -1,5 +1,8 @@
 # [My Website](https://firesquid.co)
 [![trophy](https://github-profile-trophy.vercel.app/?username=firesquid6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=firesquid6)](https://git.io/streak-stats)
+[![FireSquid's stats](https://github-readme-stats.vercel.app/api?username=firesquid6)](https://github.com/anuraghazra/github-readme-stats)  
+
 ```ts
 import { fireSquid } from "developers"
 
@@ -32,5 +35,4 @@ describe(("FireSquid") => {
 Test Files  1 passed (1)
     Tests  2 passed (2)
 ```
-[![FireSquid's stats](https://github-readme-stats.vercel.app/api?username=firesquid6)](https://github.com/anuraghazra/github-readme-stats)  
 Note: I am a minor until April 13, 2024
