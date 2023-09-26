@@ -1,7 +1,7 @@
-# [My Website](https://firesquid.co)
-[![trophy](https://github-profile-trophy.vercel.app/?username=firesquid6)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=firesquid6)](https://git.io/streak-stats)
-[![FireSquid's stats](https://github-readme-stats.vercel.app/api?username=firesquid6)](https://github.com/anuraghazra/github-readme-stats)  
+# [Firesquid](https://firesquid.co)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=firesquid6&theme=nightfox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=firesquid6&theme=nightfox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![FireSquid's stats](https://github-readme-stats.vercel.app/api?username=firesquid6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ```ts
 import { fireSquid } from "developers"
