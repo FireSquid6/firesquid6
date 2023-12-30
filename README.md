@@ -6,7 +6,7 @@
 # About
 - 🌎 Austin, Texas
 - 🎂 13 April 2006
-- 🖥️ Neovim+i3+linux mint
+- 🖥️ Neovim+i3+nixos
 - 🛠️ Typescript+Bun+NextJS+Godot+Python+Golang
 - 🏫 MITxPro Certified Fullstack Developer
 
