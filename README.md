@@ -14,3 +14,6 @@
 - 🌐 [Website + Portfolio](https://firesquid.co)
 - ⏰ [Wakatime](https://wakatime.com/@firesquid6)
 - 👔 [Linkedin](https://www.linkedin.com/in/jonathan-deiss-716008248/)
+
+# Projects
+️⬇️ See Pins ⬇️
