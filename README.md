@@ -1,5 +1,5 @@
 # Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=firesquid6&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![wakatime](https://wakatime.com/badge/user/df6f27fe-5370-49af-b416-55c9881b68bc.svg)](https://wakatime.com/@df6f27fe-5370-49af-b416-55c9881b68bc)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=firesquid6&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=firesquid6&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 [![FireSquid's stats](https://github-readme-stats.vercel.app/api?username=firesquid6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
