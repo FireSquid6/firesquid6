@@ -9,7 +9,7 @@
 
 # About
 - 🌎 Austin, Texas
-- 🖥️ Neovim+hyprland+nixos
+- 🖥️ Neovim+hyprland+nixos [see my dotfiles](https://github.com/firesquid6/system-config)
 - 🛠️ I use lots of tools. Mainly specialized in typescript/javascript, go, and godot.
 - 🏫 MITxPro Certified Fullstack Developer
 
@@ -17,6 +17,11 @@
 - 🌐 [Website + Portfolio](https://firesquid.co)
 - ⏰ [Wakatime](https://wakatime.com/@firesquid6)
 - 👔 [Linkedin](https://www.linkedin.com/in/jonathan-deiss-716008248/)
+
+# Contact
+- Discord (preferred) - @firesquid6
+- Mail - me@jdeiss.com
+- [Linkedin](https://www.linkedin.com/in/jonathan-deiss-716008248)
 
 # Projects
 ️⬇️ See Pins ⬇️
