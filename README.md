@@ -9,8 +9,8 @@
 
 # About
 - 🌎 Austin, Texas
-- 🖥️ Neovim+i3+nixos
-- 🛠️ Typescript+Bun+NextJS+Godot+Go+Postgres+Drizzle
+- 🖥️ Neovim+hyprland+nixos
+- 🛠️ I use lots of tools. Mainly specialized in typescript/javascript, go, and godot.
 - 🏫 MITxPro Certified Fullstack Developer
 
 # Links
