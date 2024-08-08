@@ -7,9 +7,10 @@
 
 # About
 - 🌎 Austin, Texas
+- 🏫 Studying computer science at Baylor University (2024-2028)
+- 🏫 MITxPro Certified Fullstack Developer (2023)
 - 🖥️ Neovim+hyprland+nixos [see my dotfiles](https://github.com/firesquid6/system-config)
 - 🛠️ I use lots of tools. Mainly specialized in typescript/javascript, go, and godot.
-- 🏫 MITxPro Certified Fullstack Developer
 
 # Links
 - 🌐 [Website + Portfolio](https://firesquid.co)
