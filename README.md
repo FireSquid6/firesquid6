@@ -10,12 +10,12 @@
 
 # Links
 - 🌐 [Website + Portfolio](https://firesquid.co)
-- 👔 [Linkedin](https://www.linkedin.com/in/jonathan-deiss-716008248/)
+- 👔 [Linkedin](https://www.linkedin.com/in/jdeiss)
 
 # Contact
-- Discord (preferred) - @firesquid6
 - Mail - me@jdeiss.com
-- [Linkedin](https://www.linkedin.com/in/jonathan-deiss-716008248)
+- Discord - @firesquid6
+- Linkedin - [jdeiss](https://www.linkedin.com/in/jdeiss) 
 
 # Projects
 ️⬇️ See Pins ⬇️
